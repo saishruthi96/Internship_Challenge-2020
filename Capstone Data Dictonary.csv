@@ -1,0 +1,14 @@
+Attribute,Definition
+Height_From_Sea_Level,Height in meters with respect to sea level
+Aspect,Angle Measured from True North
+Slope,slope of the given tree
+Distance_To_Water_Source,Distance to nearest water body/source
+Standing_Distance_To_Water_Source,Perpendicular Distance to nearest water body/source
+Distance_To_Road,Distance to nearest road
+Shadow_In_Morning,Shadow index in Morning ( Highest index value will is 255)
+Shadow_In_Midday,Shadow index in Midday( Highest index value will is 255)
+Shadow_In_Evening,Shadow index in evening ( Highest index value will is 255)
+Distance_To_Fire,Distance to nearest fire ignition place
+Turf,Kind of turfs (each value represents different kind) (Total 40)
+Neighbourhood_Type,Kinds of Neighbourhood (each value represents different kind . Total 4)
+Plant_Type,Type of the Plant (7 types)
